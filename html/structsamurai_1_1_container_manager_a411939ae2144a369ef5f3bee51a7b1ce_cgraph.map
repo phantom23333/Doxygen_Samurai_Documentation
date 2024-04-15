@@ -1,0 +1,9 @@
+<map id="samurai::ContainerManager::destroyContainer" name="samurai::ContainerManager::destroyContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,186,48"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_log_manager.html#aad1c1eaf91ee7840bdc9d5685f99dd8d" title=" " alt="" coords="234,13,405,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,24,218,24,218,29,186,29"/>
+<area shape="rect" id="Node000003" href="$namespacesamurai.html#a04d528fd18c59e5d597c0c3befe1a3b6" title=" " alt="" coords="453,13,580,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,24,437,24,437,29,405,29"/>
+<area shape="rect" id="Node000004" href="$log_8cpp.html#a20b99394428375613e50ffe07e9c3d1f" title=" " alt="" coords="628,13,707,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,24,613,24,613,29,581,29"/>
+</map>

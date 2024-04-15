@@ -1,0 +1,21 @@
+<map id="samurai::normalizeShortcutName" name="samurai::normalizeShortcutName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,220,104"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai.html#a980c6d192af60f690be91f2edc5802ff" title=" " alt="" coords="489,56,611,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,83,473,70,473,76,220,88"/>
+<area shape="rect" id="Node000008" href="$namespacesamurai.html#a7b9fd10ecbaaf28e35cc133e97da936e" title=" " alt="" coords="268,99,441,141"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="220,101,252,105,252,110,220,106"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="517,57,511,47,515,38,528,31,550,29,574,32,586,38,584,43,572,37,550,35,530,37,519,41,516,47,521,54"/>
+<area shape="rect" id="Node000003" href="$namespacesamurai.html#a72a6f11a225592383893f7b57c0c75bd" title=" " alt="" coords="659,48,833,91"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="612,75,644,76,644,81,612,80"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="659,63,627,63,627,58,659,58"/>
+<area shape="rect" id="Node000004" href="$namespacesamurai.html#a831bc0f194b5e73734e31bd762648139" title=" " alt="" coords="881,5,1060,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="832,47,893,33,894,39,834,52"/>
+<area shape="rect" id="Node000006" href="$namespacesamurai.html#aefc9146406a2d01cd4d4d2939f51f844" title=" " alt="" coords="921,56,1020,83"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="833,67,905,67,905,72,833,72"/>
+<area shape="rect" id="Node000007" href="$namespacesamurai.html#a24287b4b3407394abe05dbd911607904" title=" " alt="" coords="910,107,1031,133"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="834,86,895,100,894,106,832,92"/>
+<area shape="rect" id="Node000005" href="$namespacesamurai.html#a1a58c60900e4aa4d0d19833958bebdb3" title=" " alt="" coords="1108,5,1230,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1061,16,1093,16,1093,21,1061,21"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="439,95,480,85,482,90,440,101"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="441,111,611,92,643,87,644,92,612,97,441,116"/>
+</map>

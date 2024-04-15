@@ -1,0 +1,7 @@
+<map id="samurai::GB" name="samurai::GB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="376,13,470,40"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai.html#aba15f951a6014327a52f22edb4ee0a06" title=" " alt="" coords="237,13,328,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,29,328,29,328,24,360,24"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_containers_window.html#a07685cd6ddeec5722f4bc3c86f2300de" title=" " alt="" coords="5,5,189,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,29,189,29,189,24,221,24"/>
+</map>

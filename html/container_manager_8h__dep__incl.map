@@ -1,0 +1,21 @@
+<map id="core/runtime/containerManager/containerManager.h" name="core/runtime/containerManager/containerManager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="460,5,660,48"/>
+<area shape="rect" id="Node000002" href="$asset_manager_window_8h.html" title=" " alt="" coords="163,96,373,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,56,337,98,336,93,476,50"/>
+<area shape="rect" id="Node000006" href="$pika_main_8cpp.html" title=" " alt="" coords="468,285,642,312"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="588,60,604,95,613,132,617,163,614,193,604,230,588,262,569,287,565,283,584,259,599,228,609,192,611,163,608,133,599,97,583,62"/>
+<area shape="rect" id="Node000007" href="$containers_window_8h.html" title=" " alt="" coords="397,96,590,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="538,62,511,97,507,94,533,59"/>
+<area shape="rect" id="Node000009" href="$container_manager_8cpp.html" title=" " alt="" coords="664,96,864,139"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="623,52,717,93,715,98,621,57"/>
+<area shape="rect" id="Node000003" href="$asset_manager_window_8cpp.html" title=" " alt="" coords="5,187,230,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,149,154,188,151,184,218,145"/>
+<area shape="rect" id="Node000004" href="$editor_8h.html" title=" " alt="" coords="254,187,373,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="288,151,305,185,301,188,283,154"/>
+<area shape="rect" id="Node000005" href="$editor_8cpp.html" title=" " alt="" coords="254,277,373,320"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="316,245,316,277,311,277,311,245"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="385,233,521,282,519,287,383,238"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="439,148,357,189,354,184,436,144"/>
+<area shape="rect" id="Node000008" href="$containers_window_8cpp.html" title=" " alt="" coords="397,187,590,229"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="496,154,496,186,491,186,491,154"/>
+</map>

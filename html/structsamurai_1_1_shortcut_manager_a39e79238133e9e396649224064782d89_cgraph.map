@@ -1,0 +1,23 @@
+<map id="samurai::ShortcutManager::registerShortcut" name="samurai::ShortcutManager::registerShortcut">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,180,112"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai.html#ac0771a5b0304c1ed76d144eaaf5bd4ec" title=" " alt="" coords="228,77,442,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,88,212,88,212,93,180,93"/>
+<area shape="rect" id="Node000003" href="$namespacesamurai.html#a980c6d192af60f690be91f2edc5802ff" title=" " alt="" coords="711,56,834,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,83,695,70,696,76,443,88"/>
+<area shape="rect" id="Node000009" href="$namespacesamurai.html#a7b9fd10ecbaaf28e35cc133e97da936e" title=" " alt="" coords="490,99,663,141"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="443,101,475,105,474,110,442,106"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="739,57,733,47,737,38,751,31,773,29,796,32,808,38,806,43,794,37,772,35,752,37,741,41,739,47,744,54"/>
+<area shape="rect" id="Node000004" href="$namespacesamurai.html#a72a6f11a225592383893f7b57c0c75bd" title=" " alt="" coords="882,48,1055,91"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="834,75,866,76,866,81,834,80"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="881,63,849,63,849,58,881,58"/>
+<area shape="rect" id="Node000005" href="$namespacesamurai.html#a831bc0f194b5e73734e31bd762648139" title=" " alt="" coords="1103,5,1282,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1055,47,1115,33,1116,39,1056,52"/>
+<area shape="rect" id="Node000007" href="$namespacesamurai.html#aefc9146406a2d01cd4d4d2939f51f844" title=" " alt="" coords="1143,56,1242,83"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="1055,67,1127,67,1127,72,1055,72"/>
+<area shape="rect" id="Node000008" href="$namespacesamurai.html#a24287b4b3407394abe05dbd911607904" title=" " alt="" coords="1133,107,1253,133"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="1056,86,1118,100,1117,106,1055,92"/>
+<area shape="rect" id="Node000006" href="$namespacesamurai.html#a1a58c60900e4aa4d0d19833958bebdb3" title=" " alt="" coords="1330,5,1453,32"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1283,16,1315,16,1315,21,1283,21"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="661,95,703,85,704,90,662,101"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="663,111,833,92,866,87,867,92,834,97,664,116"/>
+</map>

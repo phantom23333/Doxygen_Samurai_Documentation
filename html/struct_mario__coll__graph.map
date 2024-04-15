@@ -1,0 +1,11 @@
+<map id="Mario" name="Mario">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,635,281,896"/>
+<area shape="rect" id="Node000002" href="$struct_container.html" title=" " alt="" coords="5,331,109,464"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,477,124,570,151,634,146,636,119,572,83,479"/>
+<area shape="rect" id="Node000003" href="$struct_player.html" title=" " alt="" coords="133,224,280,571"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,571,209,618,204,618,204,571"/>
+<area shape="rect" id="Node000004" href="$struct_transform.html" title=" " alt="" coords="131,5,282,160"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="209,160,209,207,204,207,204,160"/>
+<area shape="rect" id="Node000005" href="$struct_block.html" title=" " alt="" coords="305,352,402,443"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="341,443,294,572,274,620,269,618,290,570,336,442"/>
+</map>

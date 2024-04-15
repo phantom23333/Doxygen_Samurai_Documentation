@@ -1,0 +1,7 @@
+<map id="samurai::samuraiImgui::imguiCustomAlloc" name="samurai::samuraiImgui::imguiCustomAlloc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,158,48"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1memory_1_1_custom_allocator.html#a8a519d6110a77546732a1f4e54ad1742" title=" " alt="" coords="206,5,432,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,24,190,24,190,29,158,29"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1memory_1_1_custom_allocator.html#a98dc79f83b6ed86956d5ff574ff13b26" title=" " alt="" coords="480,5,706,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,24,464,24,464,29,433,29"/>
+</map>

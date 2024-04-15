@@ -1,0 +1,11 @@
+<map id="ContainerStaticInfo" name="ContainerStaticInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,1036,255,1212"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_static_vector.html" title=" " alt="" coords="5,609,203,972"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,971,138,1011,139,1019,134,1020,132,1013,124,973"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_static_vector.html" title=" " alt="" coords="227,612,373,969"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,970,242,1013,238,1022,233,1020,238,1011,254,968"/>
+<area shape="rect" id="Node000004" href="$structsamurai_1_1_static_string.html" title=" " alt="" coords="233,417,367,545"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,545,303,595,297,595,297,545"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1_static_vector.html" title=" " alt="" coords="231,5,369,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="303,383,303,418,297,418,297,383"/>
+</map>

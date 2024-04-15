@@ -1,0 +1,11 @@
+<map id="samurai::normalizeShortcutName" name="samurai::normalizeShortcutName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="510,47,725,73"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_shortcut_manager.html#a39e79238133e9e396649224064782d89" title=" " alt="" coords="287,5,461,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="499,47,461,41,462,36,500,41"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1_shortcuts_window.html#a047441a24fbd1a7fdd3e881b520cbac4" title=" " alt="" coords="285,72,462,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="500,79,463,84,463,79,499,73"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_editor.html#a353b4cc7048400a1ba7f2bc8bb83cbc8" title=" " alt="" coords="103,13,237,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,29,238,29,238,24,271,24"/>
+<area shape="rect" id="Node000004" href="$pika_main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,29,55,29,55,24,87,24"/>
+</map>

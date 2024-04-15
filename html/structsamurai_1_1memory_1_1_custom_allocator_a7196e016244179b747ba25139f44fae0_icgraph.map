@@ -1,0 +1,11 @@
+<map id="samurai::memory::CustomAllocator::init" name="samurai::memory::CustomAllocator::init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="377,64,603,107"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_container_manager.html#a88653ee2df45aac577a9f2762139c386" title=" " alt="" coords="105,5,327,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="372,63,318,51,320,46,373,58"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_window.html#accbd4829905958723080dda1486ac5ac" title=" " alt="" coords="133,72,299,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="361,88,299,88,299,83,361,83"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1memory_1_1_custom_allocator.html#accc44c4bfbdd65416b8327c85f8794d0" title=" " alt="" coords="103,123,329,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="373,113,320,125,318,119,372,108"/>
+<area shape="rect" id="Node000004" href="$pika_main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,72,55,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,88,55,88,55,83,117,83"/>
+</map>

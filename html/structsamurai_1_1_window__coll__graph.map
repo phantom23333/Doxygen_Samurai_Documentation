@@ -1,0 +1,13 @@
+<map id="samurai::Window" name="samurai::Window">
+<area shape="rect" id="Node000001" title=" " alt="" coords="230,603,387,736"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_context.html" title=" " alt="" coords="34,405,215,517"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,515,241,588,237,592,172,519"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1memory_1_1_custom_allocator.html" title=" " alt="" coords="5,5,223,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,287,125,388,120,388,116,288"/>
+<area shape="rect" id="Node000004" href="$structsamurai_1_1_input.html" title=" " alt="" coords="261,384,356,539"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,539,311,586,306,586,306,539"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1_button.html" title=" " alt="" coords="247,48,391,245"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,245,315,367,309,367,313,245"/>
+<area shape="rect" id="Node000006" href="$structsamurai_1_1_window_state.html" title=" " alt="" coords="381,416,525,507"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="424,508,366,591,362,588,420,505"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="shared/settings/shortcutApi.h" name="shared/settings/shortcutApi.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,5,247,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,116,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,51,91,88,87,84,137,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,96,193,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,49,169,80,163,80,163,49"/>
+<area shape="rect" id="Node000004" href="$input_8h.html" title=" " alt="" coords="217,96,309,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,47,238,84,235,88,189,51"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="233,171,293,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="266,123,266,155,261,155,261,123"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="getTileUV" name="getTileUV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,31,265,57"/>
+<area shape="rect" id="Node000002" href="$struct_mario.html#a0e389ec6230d7384ebd573f213b439b5" title=" " alt="" coords="22,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,38,123,30,124,24,173,33"/>
+<area shape="rect" id="Node000003" href="$struct_mario_editor.html#a9b2b74f1ac8a132d914cfa20d2c45c7b" title=" " alt="" coords="5,56,140,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,55,140,61,139,56,172,50"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="shared/settings/log.h" name="shared/settings/log.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,5,182,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,59,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,35,59,71,55,67,95,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="83,80,139,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,33,113,64,108,64,108,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="163,80,232,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,30,173,68,169,72,124,35"/>
+</map>

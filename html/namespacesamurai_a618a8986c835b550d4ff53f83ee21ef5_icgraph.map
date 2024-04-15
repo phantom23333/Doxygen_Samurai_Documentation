@@ -1,0 +1,9 @@
+<map id="samurai::align64" name="samurai::align64">
+<area shape="rect" id="Node000001" title=" " alt="" coords="504,47,620,73"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_container_manager.html#a88653ee2df45aac577a9f2762139c386" title=" " alt="" coords="234,5,456,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,51,456,46,457,41,489,46"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_container_information.html#a2400f5756836ad441f70413e8d3ffd52" title=" " alt="" coords="241,72,449,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="489,74,450,80,449,75,488,69"/>
+<area shape="rect" id="Node000004" href="$structsamurai_1_1_container_manager.html#a495ed1a50038d2cb490d31ceef77a1df" title=" " alt="" coords="5,72,186,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,96,186,96,186,91,225,91"/>
+</map>

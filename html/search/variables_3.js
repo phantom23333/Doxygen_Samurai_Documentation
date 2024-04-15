@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['capacity_0',['capacity',['../structsamurai_1_1_static_vector.html#a9323d62b67df47e1c58ba115c5d2c0fa',1,'samurai::StaticVector']]],
+  ['collidable_1',['collidable',['../struct_mario_editor.html#aedfadae900ed726b23930f25bc755579',1,'MarioEditor']]],
+  ['collisionmap_2',['collisionMap',['../mario_common_8h.html#a6841f392e85279d303be7f6aaae006a2',1,'marioCommon.h']]],
+  ['containermanager_3',['containerManager',['../structsamurai_1_1_editor.html#a6a2ec90cf441f5156762a189eb865a9a',1,'samurai::Editor']]],
+  ['containername_4',['containerName',['../structsamurai_1_1_container_information.html#a0a8804c949701173ec97bb8a1b9daaa4',1,'samurai::ContainerInformation']]],
+  ['containerstaticinfo_5',['containerStaticInfo',['../structsamurai_1_1_container_information.html#a40e9287fc1a1dea0bfc594e8c2699633',1,'samurai::ContainerInformation']]],
+  ['containerstructbasesize_6',['containerStructBaseSize',['../structsamurai_1_1_container_information.html#afbbfb1031a642e0ef01eda23e1f5f4a3',1,'samurai::ContainerInformation']]],
+  ['containerstructmemory_7',['containerStructMemory',['../structsamurai_1_1memory_1_1_memory_arena.html#acd2de61e13c49dcd7e1d889b944405cc',1,'samurai::memory::MemoryArena']]],
+  ['containerswindow_8',['containersWindow',['../structsamurai_1_1_editor.html#a5eebfc327e8dd3574da590005131c660',1,'samurai::Editor']]],
+  ['context_9',['context',['../structsamurai_1_1_window.html#ae93b1777866d7a324961c75c7895322d',1,'samurai::Window']]],
+  ['counter_10',['counter',['../structsamurai_1_1samurai_imgui_1_1_im_gui_ids_manager.html#ae23c738f34c5838153bb770451718851',1,'samurai::samuraiImgui::ImGuiIdsManager']]],
+  ['createatspecificmemoryregion_11',['createAtSpecificMemoryRegion',['../structsamurai_1_1_containers_window.html#a9efc9e0c64b427b73600add05f92bc4e',1,'samurai::ContainersWindow']]],
+  ['currentblock_12',['currentBlock',['../struct_mario_editor.html#a7eaacf5e2eecb871dae0b65bdc01b1b9',1,'MarioEditor']]],
+  ['currentcustomallocator_13',['currentCustomAllocator',['../global_allocator_8cpp.html#aae6493b73a448e003a14e8423d4a3db9',1,'globalAllocator.cpp']]],
+  ['currentms_14',['currentMs',['../structsamurai_1_1_runtime_container.html#a3bae49991cbf5b361a17ba3ecd429353',1,'samurai::RuntimeContainer']]],
+  ['currentpath_15',['currentPath',['../structsamurai_1_1_asset_manager_window.html#ac5e294ad911731af0af68c3ba7b5812a',1,'samurai::AssetManagerWindow']]],
+  ['currentselectedrecording_16',['currentSelectedRecording',['../structsamurai_1_1_containers_window.html#ac29afdfdcb18dd84336067c9eb518e09',1,'samurai::ContainersWindow']]],
+  ['currentselectedsnapshot_17',['currentSelectedSnapshot',['../structsamurai_1_1_containers_window.html#a81c770dd43fb840aad15f09b9cc9f56e',1,'samurai::ContainersWindow']]]
+];

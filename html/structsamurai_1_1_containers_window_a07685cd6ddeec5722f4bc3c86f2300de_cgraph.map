@@ -1,0 +1,47 @@
+<map id="samurai::ContainersWindow::update" name="samurai::ContainersWindow::update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,292,189,335"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai_1_1samurai_imgui.html#a585972584667e3266aa9db75dee8b027" title=" " alt="" coords="251,124,403,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,290,165,234,199,203,235,176,243,172,246,176,238,181,202,208,169,238,118,293"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_container_manager.html#a98d1401bec1c99d6c6297478dbd611b7" title=" " alt="" coords="237,191,417,233"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,289,236,244,252,237,254,242,238,249,143,294"/>
+<area shape="rect" id="Node000012" href="$structsamurai_1_1_container_manager.html#a411939ae2144a369ef5f3bee51a7b1ce" title=" " alt="" coords="237,259,417,301"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="188,297,221,293,221,298,189,303"/>
+<area shape="rect" id="Node000013" href="$namespacesamurai_1_1samurai_imgui.html#a3bb62047bdee990fa6e97731a94bc48d" title=" " alt="" coords="239,395,415,437"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="143,333,238,378,257,386,255,391,236,382,140,337"/>
+<area shape="rect" id="Node000017" href="$structsamurai_1_1_container_manager.html#a41c0ec09b928b2bdec37be667e46845b" title=" " alt="" coords="237,325,417,368"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="189,324,221,329,221,334,188,329"/>
+<area shape="rect" id="Node000018" href="$namespacesamurai.html#aba15f951a6014327a52f22edb4ee0a06" title=" " alt="" coords="281,483,373,509"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="119,333,170,388,238,447,282,473,279,478,235,451,166,392,115,337"/>
+<area shape="rect" id="Node000004" href="$struct_container.html#a09d3aed5418859ba744e1fb91981aab1" title=" " alt="" coords="507,5,627,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,188,415,177,428,160,434,144,437,110,441,76,449,59,463,42,491,26,494,30,467,46,454,62,446,77,443,111,439,145,432,163,419,181,404,192"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1_g_l_1_1_pika_framebuffer.html#a09021e7f9000afef117da013618d0f40" title=" " alt="" coords="470,56,664,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="397,188,415,177,430,160,438,143,447,126,463,109,470,104,473,109,467,113,451,129,443,146,435,163,419,181,400,192"/>
+<area shape="rect" id="Node000006" href="$structsamurai_1_1_g_l_1_1_pika_framebuffer.html#a035dd3b722ce775ff51971f8d714672a" title=" " alt="" coords="470,123,664,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="404,188,474,167,476,173,405,193"/>
+<area shape="rect" id="Node000007" href="$structsamurai_1_1samurai_imgui_1_1_im_gui_ids_manager.html#af1c77ff7480554328f22b07e1faf66fe" title=" " alt="" coords="465,189,669,232"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="417,209,449,209,449,214,417,214"/>
+<area shape="rect" id="Node000008" href="$structsamurai_1_1_log_manager.html#aad1c1eaf91ee7840bdc9d5685f99dd8d" title=" " alt="" coords="482,307,653,333"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="395,232,419,244,433,257,443,270,452,281,466,292,478,298,476,303,464,297,448,285,439,273,430,261,415,249,392,236"/>
+<area shape="rect" id="Node000011" href="$namespacesamurai.html#ad6c8e67e3871943881e2b8c1c21e7d6b" title=" " alt="" coords="510,256,624,283"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="418,231,496,250,494,255,417,236"/>
+<area shape="rect" id="Node000009" href="$namespacesamurai.html#a04d528fd18c59e5d597c0c3befe1a3b6" title=" " alt="" coords="738,307,866,333"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="653,317,723,317,723,323,653,323"/>
+<area shape="rect" id="Node000010" href="$log_8cpp.html#a20b99394428375613e50ffe07e9c3d1f" title=" " alt="" coords="979,307,1058,333"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="866,317,963,317,963,323,866,323"/>
+<area shape="poly" id="edge12_Node000012_Node000008" title=" " alt="" coords="418,292,468,301,467,306,417,298"/>
+<area shape="rect" id="Node000014" href="$namespacesamurai.html#ac637db0e778ef8fd1479cd2cb82fce4a" title=" " alt="" coords="483,357,651,384"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="415,397,478,385,479,390,416,402"/>
+<area shape="rect" id="Node000015" href="$namespacesamurai.html#a0f9649a00263ec19c75dd8dc15d932a3" title=" " alt="" coords="717,408,887,435"/>
+<area shape="poly" id="edge18_Node000013_Node000015" title=" " alt="" coords="415,414,702,418,702,423,415,420"/>
+<area shape="rect" id="Node000016" href="$namespacesamurai.html#a8ab512a25952ae739600fae4bf798041" title=" " alt="" coords="935,433,1102,460"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="416,422,557,434,717,444,919,446,919,451,717,449,557,440,415,428"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="633,382,723,402,721,407,632,387"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="887,429,919,432,919,438,887,434"/>
+<area shape="poly" id="edge20_Node000017_Node000008" title=" " alt="" coords="417,334,465,329,466,334,418,339"/>
+<area shape="rect" id="Node000019" href="$namespacesamurai.html#ace2261473877778d3d3ba364c9bcdcc7" title=" " alt="" coords="520,509,614,536"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="373,498,505,513,504,518,373,504"/>
+<area shape="rect" id="Node000020" href="$namespacesamurai.html#a40d84d706867dc836a7a864b48018451" title=" " alt="" coords="754,509,850,536"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="615,520,739,520,739,525,615,525"/>
+<area shape="rect" id="Node000021" href="$namespacesamurai.html#a6c381ccf35ec287ee8a424b5c27f984c" title=" " alt="" coords="972,509,1065,536"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="850,520,956,520,956,525,850,525"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="samurai::RuntimeContainer" name="samurai::RuntimeContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="289,971,458,1147"/>
+<area shape="rect" id="Node000002" href="$struct_container.html" title=" " alt="" coords="5,773,109,907"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,894,123,905,199,958,275,1003,272,1008,196,962,120,909,107,898"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1memory_1_1_memory_arena.html" title=" " alt="" coords="133,795,336,885"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,884,311,955,306,958,260,886"/>
+<area shape="rect" id="Node000004" href="$structsamurai_1_1memory_1_1_memory_block.html" title=" " alt="" coords="95,485,297,576"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="194,576,191,657,193,703,200,749,208,778,203,780,194,750,188,704,186,657,189,576"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1memory_1_1_custom_allocator.html" title=" " alt="" coords="419,5,637,288"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="429,289,401,353,381,432,367,514,358,596,353,678,354,830,363,954,358,954,349,830,348,678,352,596,361,513,376,431,396,351,424,287"/>
+<area shape="rect" id="Node000006" href="$structsamurai_1_1_static_vector.html" title=" " alt="" coords="411,352,645,709"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="531,288,531,335,525,335,525,288"/>
+<area shape="rect" id="Node000007" href="$struct_requested_container_info.html" title=" " alt="" coords="606,784,767,896"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="631,287,659,351,674,406,685,463,697,576,699,681,696,767,690,767,694,681,691,577,679,463,668,407,653,353,626,289"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="478,710,406,955,401,954,473,708"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="553,708,572,748,595,777,591,780,567,751,548,710"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="609,898,473,992,470,987,606,894"/>
+<area shape="rect" id="Node000008" href="$structsamurai_1_1_g_l_1_1_pika_framebuffer.html" title=" " alt="" coords="809,464,994,597"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="865,599,792,711,745,773,740,769,787,708,860,596"/>
+</map>

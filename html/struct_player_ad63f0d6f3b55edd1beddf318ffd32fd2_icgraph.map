@@ -1,0 +1,5 @@
+<map id="Player::updateMove" name="Player::updateMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="154,5,289,32"/>
+<area shape="rect" id="Node000002" href="$struct_mario.html#a0e389ec6230d7384ebd573f213b439b5" title=" " alt="" coords="5,5,106,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,21,106,21,106,16,138,16"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="samurai::memory::setGlobalAllocatorToStandard" name="samurai::memory::setGlobalAllocatorToStandard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,191,65"/>
+<area shape="rect" id="Node000002" href="$global_allocator_8cpp.html#ad303326dfc1fbf151cc59ce774b38d69" title=" " alt="" coords="239,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,29,223,25,224,30,192,35"/>
+<area shape="rect" id="Node000003" href="$global_allocator_8cpp.html#a2fdfb349529bad2d75089203fbc1d733" title=" " alt="" coords="251,56,339,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,53,236,59,235,64,191,59"/>
+</map>

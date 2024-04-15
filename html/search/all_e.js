@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['n_0',['N',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95a7dafe77fb9f4113aed73865cbce4d14b',1,'samurai::Button']]],
+  ['name_1',['NAME',['../structsamurai_1_1_asset_manager_window.html#a50cd6422009bc604f1a67fbade73f71c',1,'samurai::AssetManagerWindow::NAME'],['../structsamurai_1_1_containers_window.html#a4e776ccbd29faa55f51ceaa4fcc34955',1,'samurai::ContainersWindow::NAME'],['../structsamurai_1_1_shortcuts_window.html#a23784b52e7b418bb577b6469878d8da5',1,'samurai::ShortcutsWindow::NAME'],['../structsamurai_1_1_log_window.html#a096f8bc0d6c7488999e55258a25c6789',1,'samurai::LogWindow::NAME']]],
+  ['name_2',['name',['../structsamurai_1_1_log_manager.html#a33de5bf29e58faabf7f9beeb9a133110',1,'samurai::LogManager']]],
+  ['next_3',['next',['../structsamurai_1_1memory_1_1_free_block.html#aa7a674d3b43e7f0804d78bfb18876c6a',1,'samurai::memory::FreeBlock']]],
+  ['noncollidable_4',['nonCollidable',['../struct_mario_editor.html#a238d26c66319bb0c311aacdda0d736e1',1,'MarioEditor']]],
+  ['normal_5',['normal',['../struct_mapping.html#a630a0d5f2cfd6128095ded0062ab08de',1,'Mapping']]],
+  ['normalizeshortcutname_6',['normalizeShortcutName',['../namespacesamurai.html#ac0771a5b0304c1ed76d144eaaf5bd4ec',1,'samurai']]],
+  ['nr0_7',['NR0',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95a55e8df91cfd04f58fd87786e28889746',1,'samurai::Button']]],
+  ['nr1_8',['NR1',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95ae4e8db1297cb78a84c2ae749b1bf3120',1,'samurai::Button']]],
+  ['nr2_9',['NR2',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95ac8a8c687580c8fecbe9ec662e98d82c9',1,'samurai::Button']]],
+  ['nr3_10',['NR3',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95a746c8bb0a31a20db21f8b4c4fd8c14e5',1,'samurai::Button']]],
+  ['nr4_11',['NR4',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95ac6bf9526045521f671054390a9e99500',1,'samurai::Button']]],
+  ['nr5_12',['NR5',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95aa91e69ae26faa880a1c021201749a71d',1,'samurai::Button']]],
+  ['nr6_13',['NR6',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95a00907bfe08d627fa6ba9588197f8e7c9',1,'samurai::Button']]],
+  ['nr7_14',['NR7',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95ac993bd4673cd75e1a46ca66c98d373fa',1,'samurai::Button']]],
+  ['nr8_15',['NR8',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95aea5a96e113af744c2fe33130ba0e0dc5',1,'samurai::Button']]],
+  ['nr9_16',['NR9',['../structsamurai_1_1_button.html#a5d99a0e64807474a458d3b302a79ce95a6ed052a7e9fe8aaa6b387f563d6b5715',1,'samurai::Button']]]
+];

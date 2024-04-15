@@ -1,0 +1,17 @@
+<map id="shared/settings/log.cpp" name="shared/settings/log.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,5,313,32"/>
+<area shape="rect" id="Node000002" href="$log_8h.html" title=" " alt="" coords="86,80,135,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,35,146,74,144,70,212,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="160,80,224,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="230,34,209,68,205,65,225,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="249,80,309,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="245,31,265,65,261,68,240,34"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="334,80,400,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="259,30,332,70,329,75,256,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,155,59,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,109,59,146,55,142,95,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="83,155,139,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="113,107,113,139,108,139,108,107"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="163,155,232,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="127,105,173,143,169,147,124,109"/>
+</map>
