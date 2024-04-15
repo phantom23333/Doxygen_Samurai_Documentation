@@ -1,0 +1,13 @@
+<map id="samurai::GL::PikaFramebuffer::createFramebuffer" name="samurai::GL::PikaFramebuffer::createFramebuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,93,681,136"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_container_manager.html#a98d1401bec1c99d6c6297478dbd611b7" title=" " alt="" coords="259,93,439,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,117,439,117,439,112,471,112"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_container_manager.html#a988049d939d22b08cc58f3df81b268c7" title=" " alt="" coords="18,5,198,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="280,90,210,63,177,51,179,46,212,57,282,85"/>
+<area shape="rect" id="Node000004" href="$pika_main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="83,72,133,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="243,104,133,91,134,86,244,99"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1_asset_manager_window.html#abd1fb7b9e1c0bcbc5544eb12e1b0095f" title=" " alt="" coords="5,123,211,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="244,130,212,134,211,129,243,125"/>
+<area shape="rect" id="Node000006" href="$structsamurai_1_1_containers_window.html#a07685cd6ddeec5722f4bc3c86f2300de" title=" " alt="" coords="16,189,200,232"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="290,145,212,180,180,191,179,186,210,175,288,141"/>
+</map>

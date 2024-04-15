@@ -1,0 +1,21 @@
+<map id="RequestedContainerInfo::getFileSizeBinary" name="RequestedContainerInfo::getFileSizeBinary">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,164,136"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai_1_1memory.html#a27aefca5439a2691285b1c10b583431f" title=" " alt="" coords="212,60,397,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,100,196,95,196,100,165,105"/>
+<area shape="rect" id="Node000008" href="$namespacesamurai_1_1memory.html#a814ea41737e1850efebb2ec4ccdf0eb3" title=" " alt="" coords="212,127,397,169"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="165,124,196,129,196,134,164,129"/>
+<area shape="rect" id="Node000003" href="$global_allocator_8cpp.html#af4ee38db7cc811fddb77813f9cccccfc" title=" " alt="" coords="445,17,576,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,57,438,46,439,51,394,62"/>
+<area shape="rect" id="Node000006" href="$global_allocator_8cpp.html#a1c03264b82567178b219f16a7380bc8f" title=" " alt="" coords="465,76,557,103"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="397,82,449,84,449,90,397,88"/>
+<area shape="rect" id="Node000004" href="$structsamurai_1_1memory_1_1_custom_allocator.html#a8a519d6110a77546732a1f4e54ad1742" title=" " alt="" coords="624,5,851,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="577,27,609,26,609,32,577,32"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1memory_1_1_custom_allocator.html#a98dc79f83b6ed86956d5ff574ff13b26" title=" " alt="" coords="899,5,1125,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="851,24,883,24,883,29,851,29"/>
+<area shape="rect" id="Node000007" href="$structsamurai_1_1memory_1_1_custom_allocator.html#a832d318d2ba32c7a846b8cc34edc5086" title=" " alt="" coords="624,72,851,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="557,87,609,88,609,94,557,93"/>
+<area shape="rect" id="Node000009" href="$global_allocator_8cpp.html#ad303326dfc1fbf151cc59ce774b38d69" title=" " alt="" coords="455,131,567,157"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="397,144,439,143,439,148,397,149"/>
+<area shape="rect" id="Node000010" href="$global_allocator_8cpp.html#a2fdfb349529bad2d75089203fbc1d733" title=" " alt="" coords="467,181,554,208"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="398,166,452,179,451,184,397,172"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="samurai::TB" name="samurai::TB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,97,32"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai.html#ace2261473877778d3d3ba364c9bcdcc7" title=" " alt="" coords="145,5,239,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,16,129,16,129,21,97,21"/>
+<area shape="rect" id="Node000003" href="$namespacesamurai.html#a40d84d706867dc836a7a864b48018451" title=" " alt="" coords="287,5,382,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,16,272,16,272,21,239,21"/>
+<area shape="rect" id="Node000004" href="$namespacesamurai.html#a6c381ccf35ec287ee8a424b5c27f984c" title=" " alt="" coords="430,5,524,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="383,16,415,16,415,21,383,21"/>
+</map>

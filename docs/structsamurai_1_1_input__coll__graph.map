@@ -1,0 +1,5 @@
+<map id="samurai::Input" name="samurai::Input">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,299,125,453"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_button.html" title=" " alt="" coords="5,5,149,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,203,80,281,75,281,75,203"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="gameplayStart" name="gameplayStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,111,107"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai_1_1samurai_imgui.html#a3925919d86c70d1b535b937f91a7e3c5" title=" " alt="" coords="159,39,311,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,81,143,75,144,80,112,86"/>
+<area shape="rect" id="Node000008" href="$namespacesamurai_1_1samurai_imgui.html#a24142c4fed80a1d03ef0308251e57763" title=" " alt="" coords="159,105,311,148"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="112,101,144,107,143,112,111,106"/>
+<area shape="rect" id="Node000003" href="$namespacesamurai_1_1samurai_imgui.html#aaf1760c73a2ccc36dd2e67cfca6cbc0f" title=" " alt="" coords="359,5,511,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,45,343,39,344,45,312,50"/>
+<area shape="rect" id="Node000006" href="$namespacesamurai_1_1samurai_imgui.html#a5278fdeaff29b991866ae44ed60dd6b2" title=" " alt="" coords="359,72,511,115"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="312,70,344,75,343,81,311,75"/>
+<area shape="rect" id="Node000004" href="$structsamurai_1_1memory_1_1_custom_allocator.html#a8a519d6110a77546732a1f4e54ad1742" title=" " alt="" coords="559,5,786,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="511,24,544,24,544,29,511,29"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1memory_1_1_custom_allocator.html#a98dc79f83b6ed86956d5ff574ff13b26" title=" " alt="" coords="834,5,1060,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="786,24,818,24,818,29,786,29"/>
+<area shape="rect" id="Node000007" href="$structsamurai_1_1memory_1_1_custom_allocator.html#a832d318d2ba32c7a846b8cc34edc5086" title=" " alt="" coords="559,72,786,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="511,91,544,91,544,96,511,96"/>
+</map>

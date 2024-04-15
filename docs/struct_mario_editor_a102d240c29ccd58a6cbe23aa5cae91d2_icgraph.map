@@ -1,0 +1,5 @@
+<map id="MarioEditor::getMapBlockUnsafe" name="MarioEditor::getMapBlockUnsafe">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,5,359,48"/>
+<area shape="rect" id="Node000002" href="$struct_mario_editor.html#a9b2b74f1ac8a132d914cfa20d2c45c7b" title=" " alt="" coords="5,13,140,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,29,140,29,140,24,172,24"/>
+</map>

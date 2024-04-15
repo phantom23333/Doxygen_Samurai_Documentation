@@ -1,0 +1,7 @@
+<map id="samurai::Editor::update" name="samurai::Editor::update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,162,73"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai_1_1samurai_imgui.html#a3b7d8dfcc162d08de6b2c7af297715c1" title=" " alt="" coords="210,5,391,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,45,194,40,194,46,163,51"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_shortcut_manager.html#a47c906b99e295c87faf3e4b108970028" title=" " alt="" coords="213,72,388,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,69,198,75,197,80,162,75"/>
+</map>

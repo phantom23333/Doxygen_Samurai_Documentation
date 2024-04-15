@@ -1,0 +1,26 @@
+<map id="samurai::LogManager::log" name="samurai::LogManager::log">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,149,658,175"/>
+<area shape="rect" id="Node000002" href="$structsamurai_1_1_container_manager.html#a98d1401bec1c99d6c6297478dbd611b7" title=" " alt="" coords="259,174,439,217"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,180,440,185,439,179,471,175"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_container_manager.html#a988049d939d22b08cc58f3df81b268c7" title=" " alt="" coords="18,15,198,58"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="553,137,533,110,506,80,474,52,438,31,378,14,316,8,255,11,199,18,198,13,254,5,316,3,379,9,440,26,477,48,510,76,537,107,557,134"/>
+<area shape="rect" id="Node000007" href="$structsamurai_1_1_container_manager.html#a411939ae2144a369ef5f3bee51a7b1ce" title=" " alt="" coords="259,241,439,283"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="534,186,440,231,412,243,410,238,438,226,531,181"/>
+<area shape="rect" id="Node000008" href="$structsamurai_1_1_container_manager.html#a41c0ec09b928b2bdec37be667e46845b" title=" " alt="" coords="259,307,439,350"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="554,189,506,243,475,272,440,298,419,309,417,304,438,293,471,268,502,239,550,186"/>
+<area shape="rect" id="Node000009" href="$structsamurai_1_1_container_manager.html#acc7ef0cd5f544447c4aacef4335e3ed1" title=" " alt="" coords="259,41,439,83"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="531,143,438,98,410,86,412,82,440,93,534,139"/>
+<area shape="rect" id="Node000010" href="$structsamurai_1_1_container_manager.html#a9069776ce8b93c741e72c45f144470a5" title=" " alt="" coords="259,107,439,150"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="471,150,439,145,440,140,472,144"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,169,257,164,241,150,232,135,223,121,209,105,178,81,147,61,150,56,181,77,212,101,227,118,236,132,245,146,260,160,267,164"/>
+<area shape="rect" id="Node000004" href="$pika_main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="83,115,133,142"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,172,132,138,134,133,255,167"/>
+<area shape="rect" id="Node000005" href="$structsamurai_1_1_asset_manager_window.html#abd1fb7b9e1c0bcbc5544eb12e1b0095f" title=" " alt="" coords="5,174,211,217"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="243,198,211,198,211,193,243,193"/>
+<area shape="rect" id="Node000006" href="$structsamurai_1_1_containers_window.html#a07685cd6ddeec5722f4bc3c86f2300de" title=" " alt="" coords="16,241,200,283"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="256,224,189,243,187,238,254,219"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="243,265,200,265,200,259,243,259"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="254,305,187,287,189,282,256,300"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="255,91,134,125,132,120,254,85"/>
+<area shape="poly" id="edge14_Node000010_Node000004" title=" " alt="" coords="243,131,133,131,133,126,243,126"/>
+</map>

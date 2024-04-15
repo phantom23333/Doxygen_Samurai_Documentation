@@ -1,0 +1,7 @@
+<map id="Gameplay::containerInfo" name="Gameplay::containerInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,167,32"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai.html#a40d84d706867dc836a7a864b48018451" title=" " alt="" coords="215,5,310,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,16,199,16,199,21,167,21"/>
+<area shape="rect" id="Node000003" href="$namespacesamurai.html#a6c381ccf35ec287ee8a424b5c27f984c" title=" " alt="" coords="358,5,451,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,16,342,16,342,21,311,21"/>
+</map>

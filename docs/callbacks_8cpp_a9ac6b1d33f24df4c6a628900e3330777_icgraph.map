@@ -1,0 +1,12 @@
+<map id="addTypedInput" name="addTypedInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="489,31,595,57"/>
+<area shape="rect" id="Node000002" href="$callbacks_8cpp.html#aa5e0fa38d8966ee62b4173a6e04bcf08" title=" " alt="" coords="316,5,441,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,36,441,31,442,26,475,31"/>
+<area shape="rect" id="Node000005" href="$callbacks_8cpp.html#a0b9e239c8889734711f29fe45551605b" title=" " alt="" coords="333,56,425,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="475,57,426,65,425,60,474,52"/>
+<area shape="rect" id="Node000003" href="$structsamurai_1_1_window.html#accbd4829905958723080dda1486ac5ac" title=" " alt="" coords="103,31,268,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="301,32,269,36,268,30,300,26"/>
+<area shape="rect" id="Node000004" href="$pika_main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="317,64,268,58,269,52,318,59"/>
+</map>

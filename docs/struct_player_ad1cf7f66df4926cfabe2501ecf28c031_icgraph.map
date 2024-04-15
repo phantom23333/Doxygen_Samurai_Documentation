@@ -1,0 +1,7 @@
+<map id="Player::checkCollisionBrute" name="Player::checkCollisionBrute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="370,5,551,32"/>
+<area shape="rect" id="Node000002" href="$struct_player.html#a7549d3ab3745b6c86b603dea21e67901" title=" " alt="" coords="154,5,322,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,21,323,21,323,16,355,16"/>
+<area shape="rect" id="Node000003" href="$struct_mario.html#a0e389ec6230d7384ebd573f213b439b5" title=" " alt="" coords="5,5,106,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,21,106,21,106,16,138,16"/>
+</map>

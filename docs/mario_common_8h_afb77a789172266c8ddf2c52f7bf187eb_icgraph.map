@@ -1,0 +1,11 @@
+<map id="aabb" name="aabb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="806,5,855,32"/>
+<area shape="rect" id="Node000002" href="$struct_player.html#a96b6be05dd3e1563dbf0f002a8e9122d" title=" " alt="" coords="599,5,758,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,21,758,21,758,16,790,16"/>
+<area shape="rect" id="Node000003" href="$struct_player.html#ad1cf7f66df4926cfabe2501ecf28c031" title=" " alt="" coords="370,5,551,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="584,21,552,21,552,16,584,16"/>
+<area shape="rect" id="Node000004" href="$struct_player.html#a7549d3ab3745b6c86b603dea21e67901" title=" " alt="" coords="154,5,322,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="355,21,323,21,323,16,355,16"/>
+<area shape="rect" id="Node000005" href="$struct_mario.html#a0e389ec6230d7384ebd573f213b439b5" title=" " alt="" coords="5,5,106,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="138,21,106,21,106,16,138,16"/>
+</map>

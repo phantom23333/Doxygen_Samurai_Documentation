@@ -1,0 +1,26 @@
+<map id="DefaultFree" name="DefaultFree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="773,191,860,218"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai_1_1memory.html#a814ea41737e1850efebb2ec4ccdf0eb3" title=" " alt="" coords="539,183,725,226"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="757,207,725,207,725,202,757,202"/>
+<area shape="rect" id="Node000003" href="$struct_mario.html#aa9e6f92928232cb00228cc775d5bedd3" title=" " alt="" coords="7,140,104,167"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="524,198,104,160,105,155,524,192"/>
+<area shape="rect" id="Node000004" href="$struct_requested_container_info.html#a535cf75f1a081e6a92c8e5a1acf6d026" title=" " alt="" coords="333,38,491,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="592,175,544,138,490,101,458,83,461,79,493,97,547,134,595,171"/>
+<area shape="rect" id="Node000008" href="$struct_requested_container_info.html#a2589783a94e933ea7ba1e0e43ba6b1c0" title=" " alt="" coords="333,111,491,154"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="549,180,479,157,481,152,551,175"/>
+<area shape="rect" id="Node000009" href="$dll_main_8cpp.html#add6371aa6d0f2edd274e630c0f4ee0a6" title=" " alt="" coords="362,242,463,268"/>
+<area shape="poly" id="edge13_Node000002_Node000009" title=" " alt="" coords="525,232,464,246,463,241,524,226"/>
+<area shape="rect" id="Node000010" href="$struct_mario_editor.html#a9b2b74f1ac8a132d914cfa20d2c45c7b" title=" " alt="" coords="345,292,479,319"/>
+<area shape="poly" id="edge14_Node000002_Node000010" title=" " alt="" coords="583,236,492,283,462,294,460,289,490,278,581,231"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="351,34,305,19,254,10,202,11,178,18,155,29,143,39,136,50,129,75,124,102,118,116,108,130,93,142,89,138,104,126,114,113,119,100,124,74,131,48,139,36,152,25,176,13,202,6,255,4,307,14,353,29"/>
+<area shape="rect" id="Node000005" href="$struct_mario_editor.html#a696cfdc8b1b0e3a0135e6e4bfaf393d3" title=" " alt="" coords="154,39,285,66"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="317,58,286,57,286,52,317,53"/>
+<area shape="rect" id="Node000006" href="$struct_mario.html#acdf037d91b6ae35be1147375f3e6ce8b" title=" " alt="" coords="164,90,275,116"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="318,83,276,93,275,88,317,78"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="160,124,102,142,100,137,158,119"/>
+<area shape="rect" id="Node000007" href="$struct_mario.html#a0e389ec6230d7384ebd573f213b439b5" title=" " alt="" coords="5,90,106,116"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="149,106,106,106,106,100,149,100"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="318,141,104,153,104,148,317,135"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="346,107,284,80,256,69,258,64,286,75,348,102"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="317,121,275,114,276,109,318,115"/>
+</map>

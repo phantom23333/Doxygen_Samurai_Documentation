@@ -1,0 +1,10 @@
+<map id="samurai::BYTES_TO_MB" name="samurai::BYTES_TO_MB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="677,31,847,57"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai.html#ac637db0e778ef8fd1479cd2cb82fce4a" title=" " alt="" coords="461,5,629,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="662,35,629,31,630,26,662,30"/>
+<area shape="rect" id="Node000003" href="$namespacesamurai_1_1samurai_imgui.html#a3bb62047bdee990fa6e97731a94bc48d" title=" " alt="" coords="237,23,413,65"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="662,47,413,47,413,41,662,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,33,414,36,413,31,446,27"/>
+<area shape="rect" id="Node000004" href="$structsamurai_1_1_containers_window.html#a07685cd6ddeec5722f4bc3c86f2300de" title=" " alt="" coords="5,23,189,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,47,189,47,189,41,221,41"/>
+</map>

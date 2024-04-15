@@ -1,0 +1,9 @@
+<map id="dissableAllocators" name="dissableAllocators">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,133,57"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai_1_1memory.html#a857057555b7740688256415755a9c27e" title=" " alt="" coords="181,23,359,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,41,165,41,165,47,133,47"/>
+<area shape="rect" id="Node000003" href="$global_allocator_8cpp.html#aacf7ce284dc3c0adfbc3ed62f56ff2a4" title=" " alt="" coords="407,5,536,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,30,392,26,392,31,359,35"/>
+<area shape="rect" id="Node000004" href="$global_allocator_8cpp.html#ae01be5f35d7dbafec58e9d80d28f619a" title=" " alt="" coords="420,56,524,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="359,53,404,58,403,64,359,58"/>
+</map>

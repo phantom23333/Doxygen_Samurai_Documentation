@@ -1,0 +1,18 @@
+<map id="samurai::tokenizeShortcutNormalized" name="samurai::tokenizeShortcutNormalized">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,179,116"/>
+<area shape="rect" id="Node000002" href="$namespacesamurai.html#a980c6d192af60f690be91f2edc5802ff" title=" " alt="" coords="227,56,349,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,81,211,77,212,82,180,86"/>
+<area shape="rect" id="Node000003" href="$namespacesamurai.html#a72a6f11a225592383893f7b57c0c75bd" title=" " alt="" coords="397,48,570,91"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="179,96,262,96,349,92,381,88,382,93,349,97,262,102,179,101"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="254,57,249,47,253,38,266,31,288,29,311,32,324,38,321,43,310,37,288,35,267,37,256,41,254,47,259,54"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="349,75,381,76,381,81,349,80"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="396,63,364,63,364,58,396,58"/>
+<area shape="rect" id="Node000004" href="$namespacesamurai.html#a831bc0f194b5e73734e31bd762648139" title=" " alt="" coords="618,5,798,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="570,47,630,33,632,39,571,52"/>
+<area shape="rect" id="Node000006" href="$namespacesamurai.html#aefc9146406a2d01cd4d4d2939f51f844" title=" " alt="" coords="658,56,758,83"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="571,67,643,67,643,72,571,72"/>
+<area shape="rect" id="Node000007" href="$namespacesamurai.html#a24287b4b3407394abe05dbd911607904" title=" " alt="" coords="648,107,768,133"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="571,86,633,100,632,106,570,92"/>
+<area shape="rect" id="Node000005" href="$namespacesamurai.html#a1a58c60900e4aa4d0d19833958bebdb3" title=" " alt="" coords="846,5,968,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="798,16,830,16,830,21,798,21"/>
+</map>
